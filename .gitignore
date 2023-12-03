@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+/imgs
+Cargo.lock
+target
+.vscode
+*.so
+*.o
+*.a
+*.ppm
+programas/imgs/*
+.idea/
+.vs/
+tmp/
+output/*
+!output
